@@ -1,4 +1,4 @@
-module baselib
+module github.com/dongrv/baselib
 
 go 1.16
 
